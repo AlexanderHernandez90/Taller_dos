@@ -28,6 +28,8 @@ def load_data():
     return df
     
 
+#Hacemos este tercer cambio como tercer commit.
+
 # Cargar datos
 data = load_data()
 
